@@ -1,0 +1,18 @@
+int mian <>
+{
+const FLOAT int struct break CONTINUE ELSE FOR SWITCH void CASE enum sizeof typedef CHAR do IF return UNION while NEW
+public CLASS friend
+float a_=:=10.5.9:
+bool b_b [10]  
+char 
+if(test<>123){"cat"}
+test123 = t_es2t+t_es2t
+i === test__test1+rate___rate2;
+c = _test123-_1test
+loop <a!=0;a_a=>7.5:a_++>{
+agar <_a =:= 2.2E+5>
+_a == 1.2E-3
+cin>>a::
+} 
+}
+

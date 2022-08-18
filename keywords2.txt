@@ -1,0 +1,9 @@
+int
+float
+#define
+#include
+if
+while
+for
+do
+else 
